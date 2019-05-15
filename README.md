@@ -1,7 +1,7 @@
-# [Data-Structures-and-Algorithms]　(https://www.coursera.org/learn/algorithmic-toolbox/)
+# Data-Structures-and-Algorithms
 
 
-web 
+[web] (https://www.coursera.org/learn/algorithmic-toolbox/)
 ```
 contain python solution of the programming assignments.
 ```
